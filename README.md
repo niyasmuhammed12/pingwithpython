@@ -1,5 +1,6 @@
 # ping tool with python
-Ping tool with python
+
+The goal of this tool is to get the non pingable IPs to use for assigning to servers when we provide one subnet as an input, this will help avoid manual pinging of each IPs and finding the vacant IP to assign to newly onboarding Servers.
 
 The script is logically broken down into four main functions, each with a specific responsibility.
 
